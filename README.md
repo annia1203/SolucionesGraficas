@@ -1,0 +1,2 @@
+# SolucionesGraficas
+Clase soluciones
